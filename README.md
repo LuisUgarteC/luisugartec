@@ -2,10 +2,6 @@
 
 ###
 
-<h2 align="left">👤 About me</h2>
-
-###
-
 <p align="left">🎓 About to graduate<br>🥐 Learning French<br>🦇 Batman fan</p>
 
 ###
