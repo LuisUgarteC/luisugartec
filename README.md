@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 About to graduate<br>🥐 Learning French<br>🦇 Batman fan</p>
+<p align="left">🎓 About to graduate<br>🦇 Batman fan</p>
 
 ###
 
